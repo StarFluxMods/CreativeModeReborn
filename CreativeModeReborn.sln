@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreativeModeReborn", "CreativeModeReborn\CreativeModeReborn.csproj", "{97A8A634-4675-499D-8C44-171C79E231A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BepInEx|Any CPU = BepInEx|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		MelonLoader|Any CPU = MelonLoader|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Workshop|Any CPU = Workshop|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A8A634-4675-499D-8C44-171C79E231A1}.BepInEx|Any CPU.ActiveCfg = BepInEx|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.BepInEx|Any CPU.Build.0 = BepInEx|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.MelonLoader|Any CPU.ActiveCfg = MelonLoader|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.MelonLoader|Any CPU.Build.0 = MelonLoader|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.Workshop|Any CPU.ActiveCfg = Workshop|Any CPU
+		{97A8A634-4675-499D-8C44-171C79E231A1}.Workshop|Any CPU.Build.0 = Workshop|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD8C594-3841-4E0A-956C-C873807D0259}
+	EndGlobalSection
+EndGlobal
